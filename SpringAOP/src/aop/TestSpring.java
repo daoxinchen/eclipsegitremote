@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import aop.controller.UserController;
-//测试注释
+//bbbb
 public class TestSpring {
 	@Test
 	public void test() {
