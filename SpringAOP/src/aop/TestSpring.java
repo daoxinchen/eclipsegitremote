@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import aop.controller.UserController;
-//bbbb
+//bbbb+aaa
 public class TestSpring {
 	@Test
 	public void test() {
